@@ -1,4 +1,4 @@
-
+ 
 # Pure css project
 
 ![viewfinal](https://github.com/user-attachments/assets/51baf9e2-151e-4609-a24c-09aaae13781d)
@@ -12,7 +12,7 @@
 - Created - 2024/7/26
 
 - Technologies Used - Html , css
-- 
+-  
 - Role - Frontend
 
 - How to reach me : with my [instagram](https://www.instagram.com/younes.namipoor) and [linkedin](https://www.linkedin.com/in/younes-namipoor)
